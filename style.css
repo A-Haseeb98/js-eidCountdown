@@ -1,0 +1,14 @@
+#time{
+    position: absolute !important;
+    font-size: 50px;
+    top: 20%;
+    left: 40px;
+    color: white;
+}
+.remain{
+    position: absolute !important;
+    font-size: 50px;
+    top: 27%;
+    left: 40px;
+    color: white;
+}
